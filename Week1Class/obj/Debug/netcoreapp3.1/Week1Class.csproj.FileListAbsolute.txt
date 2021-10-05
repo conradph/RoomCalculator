@@ -1,0 +1,14 @@
+C:\Users\PConrad\source\repos\Week1Class\Week1Class\obj\Debug\netcoreapp3.1\Week1Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PConrad\source\repos\Week1Class\Week1Class\obj\Debug\netcoreapp3.1\Week1Class.AssemblyInfoInputs.cache
+C:\Users\PConrad\source\repos\Week1Class\Week1Class\obj\Debug\netcoreapp3.1\Week1Class.AssemblyInfo.cs
+C:\Users\PConrad\source\repos\Week1Class\Week1Class\obj\Debug\netcoreapp3.1\Week1Class.csproj.CoreCompileInputs.cache
+C:\Users\PConrad\source\repos\Week1Class\Week1Class\bin\Debug\netcoreapp3.1\Week1Class.exe
+C:\Users\PConrad\source\repos\Week1Class\Week1Class\bin\Debug\netcoreapp3.1\Week1Class.deps.json
+C:\Users\PConrad\source\repos\Week1Class\Week1Class\bin\Debug\netcoreapp3.1\Week1Class.runtimeconfig.json
+C:\Users\PConrad\source\repos\Week1Class\Week1Class\bin\Debug\netcoreapp3.1\Week1Class.runtimeconfig.dev.json
+C:\Users\PConrad\source\repos\Week1Class\Week1Class\bin\Debug\netcoreapp3.1\Week1Class.dll
+C:\Users\PConrad\source\repos\Week1Class\Week1Class\bin\Debug\netcoreapp3.1\Week1Class.pdb
+C:\Users\PConrad\source\repos\Week1Class\Week1Class\obj\Debug\netcoreapp3.1\Week1Class.dll
+C:\Users\PConrad\source\repos\Week1Class\Week1Class\obj\Debug\netcoreapp3.1\Week1Class.pdb
+C:\Users\PConrad\source\repos\Week1Class\Week1Class\obj\Debug\netcoreapp3.1\Week1Class.genruntimeconfig.cache
+C:\Users\PConrad\source\repos\Week1Class\Week1Class\obj\Debug\netcoreapp3.1\Week1Class.csproj.AssemblyReference.cache
